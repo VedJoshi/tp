@@ -438,7 +438,6 @@ Priorities:
 
 12. **Compliance:**
     - The system must follow the **no-remote-server** constraint, ensuring it can operate entirely offline without dependence on a remote server.
-    - Legal compliance should include industry standards for data encryption and storage, even though it stores data locally.
 
 13. **Environmental Requirements:**
     - The system should operate efficiently across different environments, such as machines with varying processing power, ensuring that the product runs smoothly on modern systems (with at least 8GB RAM).
@@ -449,7 +448,6 @@ Priorities:
 
 ---
 
-These non-functional requirements ensure that **Bridal Boss** remains a reliable, secure, and scalable application tailored to the needs of wedding organizers. They address critical aspects like performance, security, usability, and maintainability, ensuring the system meets both current and future needs.
 ### Glossary
 
 - **Wedding Organizer:** A professional responsible for planning and managing wedding events, coordinating with clients and vendors.
