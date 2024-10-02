@@ -1,6 +1,6 @@
 ---
 layout: default.md
-title: "Bridal Boss"
+title: ""
 ---
 
 # Bridal Boss
